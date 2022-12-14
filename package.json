@@ -158,7 +158,7 @@
     "eslint-plugin-jest": "^20.0.3",
     "eslint-plugin-jsx-a11y": "^5.0.1",
     "eslint-plugin-react": "^7.24.0",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "extract-text-webpack-plugin": "^3.0.0",
     "jest": "^20.0.4",
     "lodash-webpack-plugin": "^0.11.4",
